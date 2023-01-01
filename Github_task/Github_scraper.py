@@ -102,7 +102,7 @@ def extract_repository_details(l):
         repository_details={}
 
         repository_details['Repository name']=repository_names[m]
-        repository_details[str(t[0])] = int(t[1])
+        repository_details['stars'] = int(t[1])
         repository_details[str(t[2])] = int(t[3])
         repository_details['forks'] = t[5]
         repository_details['Languages'] = repository_name_lang
@@ -158,6 +158,9 @@ if __name__=='__main__':
             write_csv(details)
             DRIVER.find_element(By.XPATH, value="//a[@class='next_page']").click()
             time.sleep(4)
+            repository_url = DRIVER.current_url
+            html = get_page_html(repository_url)
+            l = soup_repository_tags(html)
             while len(l) == 30:
                 details = extract_repository_details(l)
                 write_csv_append(details)
