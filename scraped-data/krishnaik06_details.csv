@@ -1,0 +1,240 @@
+repository name,stars,watchings,forks,Languages
+mlproject,4,3,3,['Python']
+Stock-Sentiment-Analysis,80,3,166,['Jupyter']
+5-Days-Live-EDA-and-Feature-Engineering,117,4,175,['Jupyter']
+Tutorials-Python-In-Hindi,35,2,34,"['Jupyter', 'Python']"
+Interview-Prepartion-Data-Science,666,35,485,['Jupyter']
+FlaskLive,16,2,8,"['CSS', 'Python', 'HTML']"
+Heroku-Demo,96,4,437,"['Python', 'HTML']"
+Avgword2vec-Implementation,7,2,2,['Jupyter']
+Machine-Learning-Algorithms-Materials,152,5,77,['Jupyter']
+PCA-Geometrical-And-Mathematical-Intuition,11,2,7,['Jupyter']
+Machine-Learning-in-90-days,924,75,1.3k,['Jupyter']
+6-Months-Data-Science-Roadmap-,916,39,228,None
+Data-Analyst-Roadmap,296,11,157,None
+bostonhousepricing,54,2,66,"['Jupyter', 'Other']"
+Flask-Web-Framework,88,2,153,"['Python', 'HTML']"
+Credit-Card-Fraudlent,99,4,136,['Jupyter']
+Car-Price-Prediction,202,17,521,"['Jupyter', 'HTML', 'Python']"
+Malaria-Detection,134,3,132,"['Jupyter', 'Python', 'HTML', 'JavaScript', 'CSS']"
+Deep-Learning-Car-Brand,99,3,93,"['Jupyter', 'Python', 'HTML', 'JavaScript', 'CSS']"
+Image-Webscrapper,33,2,22,"['Python', 'CSS', 'HTML']"
+Kubernet-Dockers,15,2,12,"['CSS', 'HTML', 'Python', 'Dockerfile']"
+WaferFaultDetection,28,3,21,['Python']
+Weather-Chatbot-Using-Luis,40,3,30,['Python']
+Google-Dialogflow-chatbots,24,3,43,"['HTML', 'Python']"
+Phising-Classifier,14,4,18,"['Jupyter', 'Python']"
+AzureDeployment,21,2,114,"['CSS', 'HTML', 'Python']"
+Test,6,2,2,"['CSS', 'Python', 'HTML']"
+Google-Cloud-Platform-Deployment,38,2,65,"['CSS', 'HTML', 'Python']"
+test-endtoend,9,2,1,['Python']
+test-data-science-project,2,2,0,None
+SVM-kernel-and-ROC-AUC-Curve,11,2,6,['Jupyter']
+sensor-fault-detection,6,3,0,['Python']
+Fake-New-LSTM,64,2,105,['Jupyter']
+EDA-Used-CAr-PRediction,16,2,11,['Jupyter']
+ineuronindustry,5,2,4,['Python']
+Dockers,97,6,267,"['Jupyter', 'Python', 'Shell', 'Dockerfile']"
+Pipeline-MAchine-Learning,29,2,18,['Jupyter']
+Trackersheet-For-Leaning-Data-Science,50,4,23,None
+Gender-Recognition-and-Age-Estimator,70,3,69,['Python']
+3-Months-RoadMap-For-Data-Science,162,4,38,None
+NLP-In-Hindi,7,2,2,['Jupyter']
+Application,5,3,0,None
+gittutorials,6,2,2,None
+testgit1,4,2,0,None
+testgit,2,2,0,None
+Stock-MArket-Forecasting,197,10,370,['Jupyter']
+machinelearningproject,18,3,1,"['Python', 'Dockerfile']"
+NLP-Live,28,2,48,['Jupyter']
+Python-Practise-Problems,475,23,195,None
+ARIMA-And-Seasonal-ARIMA,137,2,277,['Jupyter']
+Airfoil-Regression-With-Deployment,19,2,29,"['HTML', 'Python', 'Procfile']"
+Complete-Deep-Learning-With-Materials,46,2,15,None
+HousePricePrediction,18,2,3,"['Shell', 'Python', 'Dockerfile']"
+Live-Time-Series,64,3,98,['Jupyter']
+Natural-Language-Processing,201,10,233,['Python']
+RegressionandLasso,78,2,65,['Jupyter']
+Python-Tutorials-In-Hindi,2,2,0,None
+Mysql-Complete-Playlist,32,2,4,None
+Keras-Tuner,42,2,106,['Jupyter']
+Finding-an-Outlier,102,2,136,['Jupyter']
+Huggingfacetransformer,44,2,60,['Jupyter']
+Deployment-flask,271,3,478,"['CSS', 'Python', 'HTML']"
+Feature-Engineering-Live-sessions,316,26,517,['Jupyter']
+Advanced-House-Price-Prediction-,263,17,323,['Jupyter']
+EDA1,173,10,391,['Jupyter']
+PysparkRegressions,22,3,65,['Jupyter']
+MediaPipe,38,2,21,['Jupyter']
+Media-Pipe,6,2,2,None
+Data-Analyst-Skill-With-Videos-in-2021,341,7,135,None
+Deployment-Deep-Learning-Model,96,3,109,"['Python', 'HTML', 'JavaScript', 'CSS']"
+Django-Series,18,2,4,None
+stats-sessions,29,2,21,None
+Image-Segmentation-Using-Pixellib,21,2,14,['Python']
+Flask-Heroku,19,2,5,"['Python', 'HTML']"
+Pywebheroku,12,2,19,"['Jupyter', 'Python']"
+Trnasformer-Bert,32,2,57,['Jupyter']
+Pyspark-With-Python,292,9,492,['Jupyter']
+Types-Of-Cross-Validation,52,2,55,['Jupyter']
+Autoviz,17,3,14,['Jupyter']
+Autoscrapper,37,2,38,"['Jupyter', 'Python']"
+Types-Of-Trnasformation,65,2,86,['Jupyter']
+Custom-object-Detection,9,2,3,None
+Gradio,10,2,6,['Jupyter']
+EVALML,24,3,27,['Jupyter']
+Shapash-,17,2,13,['Jupyter']
+Car-PricePrediction,26,3,11,"['Jupyter', 'Python']"
+BMI-Calculator,14,2,12,['Python']
+PyWebIO,19,2,11,"['Jupyter', 'Python']"
+Audio-Classification,66,5,75,['Jupyter']
+texthero,13,2,13,['Jupyter']
+AQI-Deployment,8,2,22,"['HTML', 'CSS', 'Python']"
+NLP-Deployment-Heroku,29,2,92,"['Python', 'HTML', 'CSS']"
+Deployment-Heroku,9,2,11,"['CSS', 'Python', 'HTML']"
+mlops,13,2,7,['Python']
+Assignments,7,2,4,None
+SVM-Kernels,23,3,28,['Jupyter']
+Face-Recognition-Attendance-Projects,77,3,84,['Python']
+SHA-Algorithms-Blockchain,8,2,4,['Jupyter']
+Transfer-Learning,62,2,99,['Python']
+Pdf-Encryption,10,2,9,['Jupyter']
+TFOD,13,3,20,['Jupyter']
+GIMBlockchainDemo,12,2,4,['Python']
+Competitive-Programming,33,4,27,"['Jupyter', 'Python']"
+Complete-Deep-Learning,97,5,278,"['Jupyter', 'Python']"
+Complete-Feature-Selection,132,4,160,['Jupyter']
+cottoninception,5,2,5,['Jupyter']
+BlockChainDemo,4,2,3,None
+AWS,16,3,17,['Jupyter']
+SpamClassifier,52,3,117,['Python']
+Movie-Recommender-in-python,119,10,196,['Jupyter']
+cats-dogs,15,3,8,['Jupyter']
+Lime-Model-Interpretation,13,2,16,['Jupyter']
+Ineuron-ANN,14,2,16,['Jupyter']
+Ineuron-Test,13,4,4,['Jupyter']
+CPU-Multi-Cores,11,2,7,['Jupyter']
+FastAPI,55,2,70,"['Jupyter', 'Python']"
+Cutom-Ensemble-ML,12,2,11,['Jupyter']
+ImbalancedNeural-Network,6,2,10,['Jupyter']
+Augmented-Reality,11,2,7,None
+Julia-Programming-With-MAchine-Learning,8,3,6,['Jupyter']
+Tomato-Leaf-Disease-Prediction,83,3,101,"['Jupyter', 'Python', 'Other']"
+Reinforcement-Learning,20,2,11,['Jupyter']
+Tensorddash,6,2,5,['Jupyter']
+NYC-Taxi-Fares-Prediction,41,5,15,['Jupyter']
+Hidden-Layers-Neurons,42,3,66,"['Jupyter', 'Python']"
+Machine-Learning-Retraining-Approaches,26,4,20,['Jupyter']
+Dtale,12,2,7,['Jupyter']
+Gaussian-Trnasformaion,55,2,108,['Jupyter']
+Computer-Vision-Tutorial,65,4,161,['Jupyter']
+simple-Linear-Regression,48,3,131,['Python']
+pandas-visual-analysis,29,4,19,['Jupyter']
+Live-Co---vid-Tracker,16,2,5,['Jupyter']
+Live-Corona-Tracker-And-Analysis1,6,2,8,['Jupyter']
+MongoDb-with-Python,35,2,40,['Jupyter']
+Advanced-CNN-Architectures,37,3,47,['Jupyter']
+MySQL-With-Python,33,2,20,['Jupyter']
+SStain_classification,6,2,6,"['Jupyter', 'Python', 'HTML', 'JavaScript', 'CSS']"
+AWS-SageMaker,39,3,113,['Jupyter']
+Silhouette-clustering-,41,3,65,['Jupyter']
+Pytorch-Tutorial,65,5,144,['Jupyter']
+Cotton-Disease-Prediction-Deep-Learning,49,2,86,"['Jupyter', 'Other']"
+Stains,4,2,2,None
+Types-of-Crossvalidation,34,4,28,['Jupyter']
+Handle-Imbalanced-Dataset,98,5,136,['Jupyter']
+AQI-Project,98,16,207,"['Jupyter', 'HTML']"
+PyCaret-Live-sessions,11,3,12,['Jupyter']
+All-Hyperparamter-Optimization,92,3,170,['Jupyter']
+FbProphet,23,2,51,['Jupyter']
+FAQ-RASA-NLU,24,2,47,['Python']
+IPL,31,5,39,['Jupyter']
+R-Programming-Tutorial,13,2,10,"['Jupyter', 'R']"
+Banking-Domain,16,3,10,['Jupyter']
+Streamlit,6,2,4,None
+Post_Pruning_DecisionTre,25,3,32,['Jupyter']
+DL-Project-For-Beginner,36,2,35,"['Python', 'HTML', 'Jupyter', 'JavaScript', 'CSS']"
+Circle_CI_repo,5,2,4,"['Python', 'Shell', 'Makefile', 'Dockerfile']"
+Time-Series-Forecasting,52,2,66,['Jupyter']
+EDA_Sweetviz,24,5,18,['Jupyter']
+VAEX_Big-Data,15,2,16,['Jupyter']
+Pandas-Profiling-EDA,40,2,55,['Jupyter']
+K-Nearest-Neighour,61,2,106,['Jupyter']
+tensorflow,8,1,87.9k,"['C', 'Python', 'HTML', 'Starlark', 'MLIR', 'Go', 'Other']"
+Stock-Price-Prediction-using-Keras-and-Recurrent-Neural-Networ,149,15,185,['Python']
+AirLines-Passengers-Forecasting-LSTM,15,2,16,['Jupyter']
+Pipelines-Using-Sklearn,58,4,87,['Jupyter']
+Word-Embedding,22,3,62,['Jupyter']
+InsuranceFraudDetection,32,2,58,None
+Develop-Multi-Output-Regression-Models,15,2,18,['Jupyter']
+Anomaly-Pycaret,20,2,24,['Jupyter']
+Fake-News-Classifier,86,2,101,['Jupyter']
+PowerBI,14,2,12,None
+Tableau-datasets,9,2,6,None
+Multicollinearity,16,2,85,['Jupyter']
+Deep-Learning-Face-Recognition,65,8,72,"['Python', 'Jupyter']"
+Amazon-use-cases,18,5,10,None
+Weather-Visibility-Project,22,2,38,None
+T-test-an-Correlation-using-python,96,7,220,['Jupyter']
+Sales-Chatbot,16,3,27,['Python']
+resume,6,2,8,None
+Flight-Price-Prediction,37,6,33,['Jupyter']
+Machine-LEarning-PAssword-,13,2,17,['Jupyter']
+TPOT-AUTOML,9,3,14,['Jupyter']
+Git-Tutorial,10,2,6,None
+Web-Scrapping-Wikipedia,11,3,12,['Python']
+IRIS,13,2,9,['Jupyter']
+Deployment-Deep-Learning-Heroku,9,2,3,None
+Liear-Practise,5,2,7,['Jupyter']
+Complete-Feature-Engineering,75,2,97,['Jupyter']
+Kaggle-Competitions,104,14,173,['Jupyter']
+K-Means-Materials,16,2,14,['Jupyter']
+Recommendation_complete_tutorial,129,5,246,['Jupyter']
+Diabetes-Prediction,59,5,129,['Jupyter']
+Credit_Card-Risk-assessment,17,1,30,['Jupyter']
+KNN-projects,14,3,12,['Python']
+DNA-Sequencing-Classifier,35,1,45,['Jupyter']
+Hyperparameter-Optimization,58,2,85,['Jupyter']
+folium,2,1,2.2k,"['Python', 'CSS', 'Other']"
+Predicitng-Lungs-Disease-,28,2,46,['Jupyter']
+Predicting-Heart-Disease,71,3,122,['Jupyter']
+Visualize-Multiple-Linear-Regression,11,1,12,['Python']
+NLP-Model-Deployment,13,1,18,"['Python', 'HTML', 'CSS']"
+Amazon-Review-Scraper,7,1,28,['Python']
+Feature-Selection-techniques,150,12,239,['Jupyter']
+DBSCAN-Algorithm,20,3,68,['Python']
+Data-Science-interview,19,2,14,None
+Categorical-Features,18,3,34,['Jupyter']
+Yawn-Detector,6,2,13,['Jupyter']
+GAN,16,2,19,['Jupyter']
+Deep-Learning-in-Medical-Science,15,4,19,['Python']
+Geographical-Plotting,8,2,9,['Jupyter']
+sketch_roi,6,2,11,['Jupyter']
+MLPPTS,8,2,7,None
+Unlock-Application,16,3,24,['Jupyter']
+K-NEarest-Neighbor,39,2,146,['Jupyter']
+RandomizedSearchCV,20,4,28,['Python']
+GRIDSearchCV,26,5,55,['Jupyter']
+Predict_customer_Will_Leave_the-Bank,9,2,25,['Python']
+Dimesnsionality-Reduction,42,2,74,['Jupyter']
+Multiple-Linear-Regression,53,3,218,['Python']
+Visualizing_Tree,10,2,30,['Jupyter']
+AI,11,2,12,['Jupyter']
+OpenFace,13,2,15,"['Jupyter', 'Python']"
+FaceRecognition,9,2,7,None
+Computer-Vision-Advanced,39,4,37,['Jupyter']
+Computer-Vision-,15,2,13,"['Jupyter', 'Python']"
+EDA,23,4,26,['Jupyter']
+Recommendation,6,2,6,['Python']
+machine_learning_examples,19,2,6k,['Python']
+Machine-Learning-,11,2,4,None
+model_selections,24,2,56,['Jupyter']
+Arima,6,3,14,['Jupyter']
+Principle-Component-Analysis,47,3,76,['Jupyter']
+Movies-Reviews-Sentiment-Analysis,12,2,10,['Python']
+Polynomial-Linear-Regression,19,4,35,['Python']
+DataPreprocess,9,3,12,['Python']
+Hierarchical-Clutsering,9,2,16,['Python']
+K-Means-clustering,22,4,36,['Python']
+Xgboost,22,3,42,['Python']
+Random-Forest-Regression,12,2,21,['Python']
