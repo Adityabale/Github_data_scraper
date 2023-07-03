@@ -35,26 +35,26 @@ def main():
     while True:
         if len(tags) < 30:
             data = scraper.get_repository_data(tags)
-            scraper.write_csv(data)
+            scraper.write_csv(data, mode='w')
             driver.close()
             break
         else:
             data = scraper.get_repository_data(tags)
-            scraper.write_csv(data)
+            scraper.write_csv(data, mode='w')
             driver.find_element(By.XPATH, value="//a[@class='next_page']").click()
             time.sleep(2)
             html = driver.page_source
             tags = scraper.get_repository_tags(html)
             while len(tags) == 30:
                 data = scraper.get_repository_data(tags)
-                scraper.write_csv_append(data)
+                scraper.write_csv(data, mode='a')
                 driver.find_element(By.XPATH, value="//a[@class='next_page']").click()
                 time.sleep(2)
                 html = driver.page_source
                 tags = scraper.get_repository_tags(html)
             else:
                 data = scraper.get_repository_data(tags)
-                scraper.write_csv_append(data)
+                scraper.write_csv(data, mode='a')
                 driver.close()
                 break
 
