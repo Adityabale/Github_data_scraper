@@ -2,7 +2,7 @@ import re
 import csv
 import requests
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Literal
 
 from bs4 import BeautifulSoup as bs
 from selenium.webdriver.remote.webdriver import WebDriver
@@ -112,24 +112,16 @@ class Github_Scraper:
                 pass
         return data
 
-    def write_csv(self, data):
+    def write_csv(self, data, mode: Literal['w', 'a']):
         """Create a csv file in filepath with name as usename and write the same in write
         mode using dictwriter class from csv module.
         """
         self.filepath = Path('scraped-data') / f'{self.username}_details.csv'
-        with open(file=self.filepath, mode='w') as csvfile:
+        with open(file=self.filepath, mode=mode) as csvfile:
             header_names = ["repository name", "stars", "watchings", "forks", "Languages"]
             writer = csv.DictWriter(csvfile, fieldnames=header_names)
-            writer.writeheader()
-            for row in data:
-                writer.writerow(row)
-
-    def write_csv_append(self, data):
-        """Write a csv file in append mode in a already existing csv file using dictwriter class 
-        from csv module."""
-        with open(file=self.filepath, mode='a') as csvfile:
-            header_names = ["repository name", "stars", "watchings", "forks", "Languages"]
-            writer = csv.DictWriter(csvfile, fieldnames=header_names)
+            if mode == 'w':
+                writer.writeheader()
             for row in data:
                 writer.writerow(row)
                 
